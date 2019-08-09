@@ -10,6 +10,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def fox_mccloud
+def any_phrase(fox)
   puts "Do A Barrel Roll!"
 end
